@@ -12,9 +12,9 @@ public:
 		tm = new TuringMachine(x, y);
 	}
 
-	void render();
+	void render(int, int);
 };
 
-void Renderer::render() {
-	tm->render();
+void Renderer::render(int x, int y) {
+	tm->render(x, y);
 }
