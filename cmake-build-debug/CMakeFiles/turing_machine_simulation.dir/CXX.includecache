@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/acer/Desktop/SP141/turing-machine-simulation/cell.h
+
+C:/Users/acer/Desktop/SP141/turing-machine-simulation/main.cpp
+iostream
+-
+vector
+-
+renderer.h
+C:/Users/acer/Desktop/SP141/turing-machine-simulation/renderer.h
+
+C:/Users/acer/Desktop/SP141/turing-machine-simulation/renderer.h
+iostream
+-
+turing_machine.h
+C:/Users/acer/Desktop/SP141/turing-machine-simulation/turing_machine.h
+
+C:/Users/acer/Desktop/SP141/turing-machine-simulation/turing_machine.h
+cell.h
+C:/Users/acer/Desktop/SP141/turing-machine-simulation/cell.h
+
